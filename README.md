@@ -17,8 +17,8 @@ Store the estimated state in a list. </br>
 Plot the true and estimated positions.</br>
 ## Program:
 ```python
-Developed By: Jeeva Abishake
-Register no : 212221240018
+Developed By: Kavya K
+Register no : 212222230065
 ```
 ```python
 import numpy as np
@@ -73,7 +73,8 @@ plt.show()
 ```
 
 ## Output:
-![output](out.png)
+![image](https://github.com/kavyasenthamarai/Experiment-4---Implementation-of-Kalman-Filter/assets/118668727/ac5611a8-bd1b-4ab0-8167-38d6f1e30b79)
+
 
 ## Result:
 Thus, Kalman filter to predict the position and velocity of an object is implemented successfully.
